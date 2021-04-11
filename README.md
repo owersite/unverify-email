@@ -1,3 +1,3 @@
 ### Unverify Email Exploit
 #### Description:
-###### Unverify email with token using python!
+###### Unverify email with a token using python!
