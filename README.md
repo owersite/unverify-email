@@ -1,3 +1,3 @@
 ### Unverify Email Exploit
 #### Description:
-###### Unverify email with a token using python!
+###### Discord exploit used to unverify email with a token using python!
